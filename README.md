@@ -4,9 +4,7 @@
 Building a strong mathematical foundation for Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.
 </p>
 
-<p align="center">
-  <img src="assets/banner.png" alt="Mathematics for Machine Learning Banner" width="100%">
-</p>
+
 
 <p align="center">
 
