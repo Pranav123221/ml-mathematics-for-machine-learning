@@ -1,64 +1,97 @@
-# 🧮 Mathematics for Machine Learning
+# <p align="center">🧮 Mathematics for Machine Learning</p>
 
-> A comprehensive collection of mathematical concepts, derivations, visualizations, and Python implementations required for Machine Learning and Deep Learning.
+<p align="center">
+Building a strong mathematical foundation for Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.
+</p>
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-orange)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626)
-![License](https://img.shields.io/badge/License-MIT-green)
+<p align="center">
+  <img src="assets/banner.png" alt="Mathematics for Machine Learning Banner" width="100%">
+</p>
 
----
+<p align="center">
 
-## 📖 About
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-success)
+![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
 
-This repository documents my journey of learning the mathematics behind Machine Learning.
-
-Instead of memorizing formulas, I focus on understanding **why** they work through:
-
-* 📚 Concept explanations
-* ✍️ Mathematical derivations
-* 💻 Python implementations
-* 📈 Visualizations
-* 📝 Practice exercises
-* 🤖 Connections to Machine Learning algorithms
-
-The goal is to build a strong mathematical foundation for Machine Learning, Deep Learning, and AI.
+</p>
 
 ---
 
-# 📂 Repository Structure
+# 📖 About
 
-```text
-ml-mathematics-for-machine-learning/
+Machine Learning is built upon mathematics.
 
-├── 01-Linear-Algebra/
-├── 02-Calculus/
-├── 03-Probability/
-├── 04-Statistics/
-├── 05-Optimization/
-├── images/
-└── README.md
-```
+This repository documents my journey of learning the mathematical concepts that power modern AI systems.
+
+Instead of memorizing formulas, I focus on understanding:
+
+* The intuition behind every concept
+* Mathematical derivations
+* Python implementations
+* Visualizations
+* Real-world Machine Learning applications
+
+Every notebook is written from first principles to build a solid understanding.
+
+---
+
+# 🎯 Objectives
+
+* Build a strong mathematical foundation for AI
+* Understand the theory behind ML algorithms
+* Implement concepts using Python
+* Create visual explanations
+* Document the learning journey publicly
+
+---
+
+# 🗺️ Learning Roadmap
+
+| Module                          
+| ------------------------------- 
+| Linear Algebra                
+| Calculus                        
+| Probability                    
+| Statistics                      
+| Optimization                    
+| Information Theory              
+| Linear Regression Mathematics   
+| Logistic Regression Mathematics 
+| Neural Network Mathematics      
+| Backpropagation                 
+| PCA Mathematics                 
+| SVD Mathematics                 
+| Bayesian Learning               
+| Convex Optimization             
+
+---
+
+
 
 ---
 
 # 📚 Topics Covered
 
-## ✅ 1. Linear Algebra
+## 📐 Linear Algebra
 
+* Scalars
 * Vectors
 * Matrices
 * Matrix Operations
+* Matrix Multiplication
 * Dot Product
 * Cross Product
-* Vector Spaces
+* Linear Transformations
 * Eigenvalues
 * Eigenvectors
-* Matrix Decomposition
+* Singular Value Decomposition (SVD)
 
 ---
 
-## ✅ 2. Calculus
+## 📈 Calculus
 
 * Functions
 * Limits
@@ -66,15 +99,14 @@ ml-mathematics-for-machine-learning/
 * Partial Derivatives
 * Chain Rule
 * Gradients
-* Jacobian
-* Hessian
-* Optimization Basics
+* Jacobian Matrix
+* Hessian Matrix
 
 ---
 
-## ✅ 3. Probability
+## 🎲 Probability
 
-* Probability Rules
+* Probability Basics
 * Conditional Probability
 * Bayes' Theorem
 * Random Variables
@@ -84,110 +116,125 @@ ml-mathematics-for-machine-learning/
 
 ---
 
-## ✅ 4. Statistics
+## 📊 Statistics
 
 * Mean
 * Median
 * Mode
-* Variance
 * Standard Deviation
 * Covariance
 * Correlation
+* Sampling
 * Hypothesis Testing
 
 ---
 
-## ✅ 5. Optimization
+## 📉 Optimization
 
 * Cost Functions
+* Convex Functions
 * Gradient Descent
 * Learning Rate
-* Convex Functions
-* Local vs Global Minima
+* Local Minima
+* Global Minima
 
 ---
 
 # 📓 Notebook Format
 
-Each notebook follows a consistent structure:
+Each notebook follows the same structure.
 
-1. 📖 Theory
-2. ✍️ Mathematical Derivation
-3. 💻 Python Implementation
-4. 📊 Visualization
-5. 🧠 ML Applications
-6. 📝 Practice Questions
-7. 🎯 Key Takeaways
+```text
+Topic
+
+Theory
+
+Mathematical Intuition
+
+Derivation
+
+Python Implementation
+
+Visualization
+
+Machine Learning Applications
+
+Practice Questions
+
+Summary
+```
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
 * Python
-* Jupyter Notebook
 * NumPy
 * Matplotlib
-* Pandas (where applicable)
+* Jupyter Notebook
 
 ---
 
-# 🎯 Learning Goal
+# 🚀 Why This Repository?
 
-Build a strong mathematical foundation for:
+The goal is not just to solve mathematical problems.
 
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Natural Language Processing
-* Generative AI
+The goal is to understand **why Machine Learning algorithms work** through mathematics.
+
+Every topic connects mathematical theory with practical AI applications.
 
 ---
 
-# 🚀 Progress Tracker
 
-| Module         | Status |
-| -------------- | ------ |
-| Linear Algebra | ⬜      |
-| Calculus       | ⬜      |
-| Probability    | ⬜      |
-| Statistics     | ⬜      |
-| Optimization   | ⬜      |
-
-Legend:
-
-* ⬜ Not Started
-* 🟨 In Progress
-* ✅ Completed
 
 ---
 
-# 📈 Future Additions
+# 📚 References
 
-* Mathematical proofs
+* Mathematics for Machine Learning
+* Hands-On Machine Learning
+* Deep Learning (Goodfellow)
+* Pattern Recognition and Machine Learning
+* Linear Algebra Done Right
+
+---
+
+# 🌟 Future Additions
+
 * Interactive visualizations
+* Mathematical proofs
 * ML algorithm derivations
 * Deep Learning mathematics
-* Interview notes
-* Practice assignments
+* Transformer mathematics
+* Diffusion model mathematics
+* Reinforcement Learning mathematics
 
 ---
 
 # 🤝 Contributions
 
-This repository is part of my AI/ML learning journey. Suggestions and feedback are always welcome.
+Suggestions, improvements, and discussions are always welcome.
+
+Feel free to open an issue or submit a pull request.
 
 ---
 
-# ⭐ If you find this repository useful
+# ⭐ Support
 
-Consider giving it a ⭐ to support the project and follow my learning journey.
+If this repository helps you learn, consider giving it a ⭐.
+
+It motivates me to continue documenting my AI/ML journey.
 
 ---
 
-## 📌 Author
+<p align="center">
+
+### 👨‍💻 Author
 
 **Pranav Sharma**
 
-Aspiring Machine Learning Engineer | AI & GenAI Enthusiast
+Aspiring Machine Learning Engineer
 
-Learning in Public • Building Projects • Sharing Knowledge
+Building in Public • Learning Every Day • Sharing Knowledge
+
+</p>
